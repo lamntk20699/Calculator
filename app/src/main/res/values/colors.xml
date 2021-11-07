@@ -23,4 +23,5 @@
     <color name="red">#FF0000</color>
 
     <color name="black_grey">#463E3F</color>
+    <color name="dark_grey">#202020</color>
 </resources>

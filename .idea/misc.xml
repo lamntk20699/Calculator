@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/backspace.xml" value="0.2703125" />
         <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/button_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/clear_button_background.xml" value="0.2703125" />
         <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/color.xml" value="0.2703125" />
-        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_baseline_backspace_24.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/result_button_background.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/drawable/special_button_background.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
